@@ -1,0 +1,5 @@
+Host ec2
+ Hostname $ec2_FQDN
+ IdentityFile ~/.ssh/$pem_file
+ 
+ 
